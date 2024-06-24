@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using System.Diagnostics;
 using vueTry2.Models;
 
@@ -6,6 +7,36 @@ namespace vueTry2.Controllers
 {
     public class HomeController : Controller
     {
+
+    public class UserInfo
+        {
+            public string Token { get; set; }
+            public string Email { get; set; }
+            public decimal UserId { get; set; }
+            public string RefreshToken { get; set; }
+            public decimal ExpiresIn { get; set; }
+        }
+
+    public class Game
+        {
+            public string Name { get; set; }
+            public decimal Price { get; set; }
+        }
+
+        public class LoginModel
+        {
+            public string Email { get; set; }
+            public string Password { get; set; }
+            // Другие необходимые поля
+        }
+
+        static public string Email = "bffus@mail.ru";
+        static public string pass = "1234";
+
+        static public string accecesToken = "roma";
+        static public string refreshToken = "1234";
+
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -38,6 +69,44 @@ namespace vueTry2.Controllers
             return Json(jsonData);
         }
 
+
+        [HttpGet]
+        public IActionResult GetGames()
+        {
+
+
+            List<Game> games = new List<Game>
+            {
+                new Game { Name = "Игра 1", Price = 19.99m },
+                new Game { Name = "Игра 2", Price = 29.99m },
+                new Game { Name = "Игра 3", Price = 39.99m }
+            };
+
+            string json = JsonConvert.SerializeObject(games);
+
+
+
+            return Json(json);
+        }
+
+
+        [HttpPost]
+        public IActionResult Login([FromBody] LoginModel loginModel)
+        {
+
+            var temp = Json(new UserInfo
+            {
+                Token = "секретный_токен",
+                Email = loginModel.Email,
+                UserId = 4,
+                RefreshToken = "refreshToken",
+                ExpiresIn = 3600
+            });
+
+            Console.WriteLine(temp);
+
+            return temp;
+        }
 
         [HttpPost]
         public IActionResult CreateData([FromBody] string data)

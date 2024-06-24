@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ik2YejEoLvkgGFVyh9dQI9sD/Y7+gC8Plp2Tg1ibyVuYT8QNeMn8vOH3nlsLSXQ4BEKIlU98/mGzu+kOfnJLfQ==",
+  "dgSpecHash": "q5pTFCzuH9FVCYoB+otwf8EAiIEP9yUgvEbc6rfpCsh6SEr/XFhuo5iERcXeui1beq1QEe+xcAxPPeEimHjg2w==",
   "success": true,
   "projectFilePath": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\vueTry2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bffus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

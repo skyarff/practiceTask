@@ -32,3 +32,5 @@ C:\Users\bffus\OneDrive\Рабочий стол\vueTry2\vueTry2\obj\Debug\net6.0
 C:\Users\bffus\OneDrive\Рабочий стол\vueTry2\vueTry2\obj\Debug\net6.0\vueTry2.pdb
 C:\Users\bffus\OneDrive\Рабочий стол\vueTry2\vueTry2\obj\Debug\net6.0\vueTry2.genruntimeconfig.cache
 C:\Users\bffus\OneDrive\Рабочий стол\vueTry2\vueTry2\obj\Debug\net6.0\ref\vueTry2.dll
+C:\Users\bffus\OneDrive\Рабочий стол\vueTry2\vueTry2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bffus\OneDrive\Рабочий стол\vueTry2\vueTry2\obj\Debug\net6.0\vueTry2.csproj.CopyComplete

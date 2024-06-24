@@ -9,12 +9,12 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\css\\123.c9e6cf13.css",
-      "PackagePath": "staticwebassets\\dist\\css\\123.c9e6cf13.css"
-    },
-    {
       "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\css\\431.4f3db591.css",
       "PackagePath": "staticwebassets\\dist\\css\\431.4f3db591.css"
+    },
+    {
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\css\\687.c9e6cf13.css",
+      "PackagePath": "staticwebassets\\dist\\css\\687.c9e6cf13.css"
     },
     {
       "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\css\\697.84074019.css",
@@ -45,20 +45,12 @@
       "PackagePath": "staticwebassets\\dist\\index.html"
     },
     {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\123.da6b85ba.js",
-      "PackagePath": "staticwebassets\\dist\\js\\123.da6b85ba.js"
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\166.111be21e.js",
+      "PackagePath": "staticwebassets\\dist\\js\\166.111be21e.js"
     },
     {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\123.da6b85ba.js.map",
-      "PackagePath": "staticwebassets\\dist\\js\\123.da6b85ba.js.map"
-    },
-    {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\128.ddb9cefc.js",
-      "PackagePath": "staticwebassets\\dist\\js\\128.ddb9cefc.js"
-    },
-    {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\128.ddb9cefc.js.map",
-      "PackagePath": "staticwebassets\\dist\\js\\128.ddb9cefc.js.map"
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\166.111be21e.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\166.111be21e.js.map"
     },
     {
       "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\431.1eafac9d.js",
@@ -67,6 +59,14 @@
     {
       "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\431.1eafac9d.js.map",
       "PackagePath": "staticwebassets\\dist\\js\\431.1eafac9d.js.map"
+    },
+    {
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\687.ad863d35.js",
+      "PackagePath": "staticwebassets\\dist\\js\\687.ad863d35.js"
+    },
+    {
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\687.ad863d35.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\687.ad863d35.js.map"
     },
     {
       "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\697.bdc483e3.js",
@@ -85,12 +85,12 @@
       "PackagePath": "staticwebassets\\dist\\js\\739.c2fdfba6.js.map"
     },
     {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.ae8fd009.js",
-      "PackagePath": "staticwebassets\\dist\\js\\app.ae8fd009.js"
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.bda219ca.js",
+      "PackagePath": "staticwebassets\\dist\\js\\app.bda219ca.js"
     },
     {
-      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.ae8fd009.js.map",
-      "PackagePath": "staticwebassets\\dist\\js\\app.ae8fd009.js.map"
+      "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.bda219ca.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\app.bda219ca.js.map"
     },
     {
       "Id": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\chunk-vendors.2007970b.js",

@@ -22,10 +22,16 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+
 app.MapControllerRoute(
-    name: "buttonClicked",
-    pattern: "/api/buttonClicked",
-    defaults: new { controller = "Home", action = "ButtonClicked" });
+    name: "apiAction",
+    pattern: "/api/{action}",
+    defaults: new { controller = "Home" });
+
+//app.MapControllerRoute(
+//    name: "buttonClicked",
+//    pattern: "/api/buttonClicked",
+//    defaults: new { controller = "Home", action = "ButtonClicked" });
 
 app.MapControllerRoute(
     name: "default",
