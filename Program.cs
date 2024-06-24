@@ -14,6 +14,8 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+
 app.UseStaticFiles();
 
 app.UseRouting();
@@ -21,7 +23,13 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
+    name: "buttonClicked",
+    pattern: "/api/buttonClicked",
+    defaults: new { controller = "Home", action = "ButtonClicked" });
+
+app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{*url}",
+    defaults: new { controller = "Home", action = "Index" });
 
 app.Run();

@@ -13,10 +13,42 @@ namespace vueTry2.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        [HttpGet]
+        public IActionResult ButtonClicked()
         {
+            //Console.WriteLine("abobes");
+
+            ////return Ok("Данные с сервера");
+
+
+            //return View("Index");
+
+            Console.WriteLine("VRABOBA");
+
+            // Создаем объект для отправки в формате JSON
+            var jsonData = new
+            {
+                Message = "Данные с сервера",
+                Timestamp = DateTime.Now
+            };
+
+            // Возвращаем JSON-объект
+            return Json(jsonData);
+        }
+
+        public IActionResult Index(string url)
+        {
+            if (url == "api/buttonClicked")
+            {
+                //return Ok("Данные с сервера");
+
+                Console.WriteLine(url);
+            }
+
             return View();
         }
+
+        
 
         public IActionResult Privacy()
         {
