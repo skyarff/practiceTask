@@ -25,6 +25,8 @@ namespace vueTry2.Controllers
 
             Console.WriteLine("VRABOBA");
 
+            //Response.Headers.Add("X-Custom-Header", "Custom Value");
+
             // Создаем объект для отправки в формате JSON
             var jsonData = new
             {
@@ -35,6 +37,44 @@ namespace vueTry2.Controllers
             // Возвращаем JSON-объект
             return Json(jsonData);
         }
+
+
+        [HttpPost]
+        public IActionResult CreateData([FromBody] string data)
+        {
+            // Логика для создания данных
+            // ...
+
+            //var responseData = new
+            //{
+            //    Id = data.Id,
+            //    Name = data.Name,
+            //    CreatedAt = DateTime.Now
+            //};
+
+            return Ok(data);
+        }
+
+
+        [HttpPut("{id}")]
+        public IActionResult UpdateData(int id, [FromBody] string data)
+        {
+            // Логика для обновления данных
+            // ...
+
+            return Ok(data);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeleteData(int id)
+        {
+            // Логика для удаления данных
+            // ...
+
+            return Ok();
+        }
+
+
 
         public IActionResult Index(string url)
         {
