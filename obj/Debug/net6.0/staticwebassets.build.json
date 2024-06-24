@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "liaQ2VC6O5EXygWRbN3HZUE2Fp0awkIXeg0Xh5ZE8A0=",
+  "Hash": "OPX4QgJViaSGV5H3+vc1FuKNc9EwqtBGjTqCC8zWnIY=",
   "Source": "vueTry2",
   "BasePath": "_content/vueTry2",
   "Mode": "Default",
@@ -68,12 +68,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\css\\chunk-vendors.df54d641.css",
+      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\css\\chunk-vendors.0f5f3f34.css",
       "SourceId": "vueTry2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\",
       "BasePath": "_content/vueTry2",
-      "RelativePath": "dist/css/chunk-vendors.df54d641.css",
+      "RelativePath": "dist/css/chunk-vendors.0f5f3f34.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,7 +82,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\css\\chunk-vendors.df54d641.css"
+      "OriginalItemSpec": "wwwroot\\dist\\css\\chunk-vendors.0f5f3f34.css"
     },
     {
       "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\favicon.ico",
@@ -136,12 +136,12 @@
       "OriginalItemSpec": "wwwroot\\dist\\index.html"
     },
     {
-      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.f2e7fa2f.js",
+      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.25091e93.js",
       "SourceId": "vueTry2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\",
       "BasePath": "_content/vueTry2",
-      "RelativePath": "dist/js/app.f2e7fa2f.js",
+      "RelativePath": "dist/js/app.25091e93.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\js\\app.f2e7fa2f.js"
+      "OriginalItemSpec": "wwwroot\\dist\\js\\app.25091e93.js"
     },
     {
-      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.f2e7fa2f.js.map",
+      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\app.25091e93.js.map",
       "SourceId": "vueTry2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\",
       "BasePath": "_content/vueTry2",
-      "RelativePath": "dist/js/app.f2e7fa2f.js.map",
+      "RelativePath": "dist/js/app.25091e93.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\js\\app.f2e7fa2f.js.map"
+      "OriginalItemSpec": "wwwroot\\dist\\js\\app.25091e93.js.map"
     },
     {
-      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\chunk-vendors.97241239.js",
+      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\chunk-vendors.bba283e8.js",
       "SourceId": "vueTry2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\",
       "BasePath": "_content/vueTry2",
-      "RelativePath": "dist/js/chunk-vendors.97241239.js",
+      "RelativePath": "dist/js/chunk-vendors.bba283e8.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\js\\chunk-vendors.97241239.js"
+      "OriginalItemSpec": "wwwroot\\dist\\js\\chunk-vendors.bba283e8.js"
     },
     {
-      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\chunk-vendors.97241239.js.map",
+      "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\dist\\js\\chunk-vendors.bba283e8.js.map",
       "SourceId": "vueTry2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\",
       "BasePath": "_content/vueTry2",
-      "RelativePath": "dist/js/chunk-vendors.97241239.js.map",
+      "RelativePath": "dist/js/chunk-vendors.bba283e8.js.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,7 +201,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\dist\\js\\chunk-vendors.97241239.js.map"
+      "OriginalItemSpec": "wwwroot\\dist\\js\\chunk-vendors.bba283e8.js.map"
     },
     {
       "Identity": "C:\\Users\\bffus\\OneDrive\\Рабочий стол\\vueTry2\\vueTry2\\wwwroot\\favicon.ico",
